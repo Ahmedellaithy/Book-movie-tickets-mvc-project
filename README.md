@@ -1,6 +1,6 @@
 # Title
 
-A Student Management System Built with Clean Architecture
+Movie Booking system
 
 ## Table of Contents
 * [Overview](overview)
