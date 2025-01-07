@@ -1,6 +1,6 @@
 # Title
 
-Movie Booking system
+Movie Ticket Booking system
 
 ## Table of Contents
 * [Overview](overview)
